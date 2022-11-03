@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LanternInitialState : AStateBehaviour
+public class LanternInitialSearchState : AStateBehaviour
 {
     [SerializeField] private Transform cameraTransform;
     [SerializeField] private Transform lanternTransform;

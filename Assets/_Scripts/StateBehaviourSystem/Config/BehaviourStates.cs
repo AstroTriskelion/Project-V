@@ -18,8 +18,8 @@ public enum ELanternIntroductionStates
     Invalid = -1,
     InitialSearch,
     Appear,
+    WaitForGrab,
     BezierMove,
     Narrative,
-    WaitForGrab,
     FlashTransition
 }
