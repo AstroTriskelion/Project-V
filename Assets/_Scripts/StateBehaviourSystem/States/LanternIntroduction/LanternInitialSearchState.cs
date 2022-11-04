@@ -7,7 +7,7 @@ public class LanternInitialSearchState : AStateBehaviour
     [SerializeField] private Transform cameraTransform;
     [SerializeField] private Transform lanternTransform;
     // Please make me work through the AudioManager
-    [SerializeField] private AudioSource source;
+    //[SerializeField] private AudioSource source;
 
     public override bool InitializeState()
     {
@@ -18,7 +18,7 @@ public class LanternInitialSearchState : AStateBehaviour
 
     public override void OnStateStart()
     {
-        source.Play();
+        //source.Play();
     }
 
     public override void OnStateUpdate()
@@ -31,6 +31,7 @@ public class LanternInitialSearchState : AStateBehaviour
     {
         if (IsPlayerLookingAtLantern())
         {
+            Debug.Log("Pass");
             return (int)ELanternIntroductionStates.Appear;
         }
 
@@ -42,6 +43,6 @@ public class LanternInitialSearchState : AStateBehaviour
         Vector3 cameraForward = cameraTransform.forward;
         Vector3 directionToLantern = (lanternTransform.position - cameraTransform.position).normalized;
         
-        return Vector3.Dot(cameraForward, directionToLantern) > 0.8f;
+        return Vector3.Dot(cameraForward, directionToLantern) > 0.5f;
     }
 }

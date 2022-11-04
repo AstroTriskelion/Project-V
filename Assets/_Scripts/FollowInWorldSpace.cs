@@ -11,6 +11,7 @@ public class FollowInWorldSpace : MonoBehaviour
     void Start()
     {
         offset = transform.position - objectToFollow.position;
+
     }
 
     // Update is called once per frame
