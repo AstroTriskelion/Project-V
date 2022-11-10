@@ -6,6 +6,7 @@ public class LanternInitialSearchState : AStateBehaviour
 {
     [SerializeField] private Transform cameraTransform;
     [SerializeField] private Transform lanternTransform;
+    
     // Please make me work through the AudioManager
     //[SerializeField] private AudioSource source;
 
@@ -19,6 +20,7 @@ public class LanternInitialSearchState : AStateBehaviour
     public override void OnStateStart()
     {
         //source.Play();
+       
     }
 
     public override void OnStateUpdate()

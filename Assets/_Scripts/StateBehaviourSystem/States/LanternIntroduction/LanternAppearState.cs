@@ -13,31 +13,50 @@ public class LanternAppearState : AStateBehaviour
     //[SerializeField] private PlayableDirector director;
     //[SerializeField] private Material Lantern;
     [SerializeField] private GameObject Lamp;
-    //int i = 0;
+    [SerializeField] private float Duration = 1.0f;
+    private float Timer = 0.0f;
+    private bool next = false;
 
     public override bool InitializeState()
     {
         /* if (!director)
              return false;
+        director.stopped += OnDirectorFinished;*/
 
-         director.stopped += OnDirectorFinished;*/
-        return true; 
+        var cubeRenderer = Lamp.GetComponent<Renderer>().material;
+        Color color = cubeRenderer.color;
+        color.a = 0f;
+        cubeRenderer.color = color;
+        return true;
+
+        
     }
 
     public override void OnStateStart()
     {
-        var cubeRenderer = Lamp.GetComponent<Renderer>();
-        cubeRenderer.material.SetColor("_Color", Color.red);
-        //i = 1;
-
-        Debug.Log("Color Changed");
-
-        OnDirectorFinished();
+        /*var cubeRenderer = Lamp.GetComponent<Renderer>();
+        cubeRenderer.material.SetColor("_Color", Color.red);*/
         // director.Play();
     }
 
-    public override void OnStateUpdate()
-    {        
+    public override void OnStateUpdate()//> <=
+    {
+        
+        if (next == true)
+        {
+            Debug.Log("Done with Lamp");
+            OnDirectorFinished();
+        }
+        else
+        {
+            Debug.Log("Not done with Lamp");
+            TickDown(Timer / Duration);
+            Timer += Time.deltaTime;
+            if(Timer >= Duration)
+            {
+                next = true;
+            }
+        }
     }
 
     public override void OnStateEnd()
@@ -45,7 +64,7 @@ public class LanternAppearState : AStateBehaviour
 
     public override int StateTransitionCondition()
     {
-        /*if (i == 1 )
+        /*if (Timer / Duration == 1f)
         {
             Debug.Log("Bazier time");
             return (int)ELanternIntroductionStates.BezierMove;
@@ -57,5 +76,14 @@ public class LanternAppearState : AStateBehaviour
     {
         Debug.Log("Bazier time");
         AssociatedStateMachine.SetState((int)ELanternIntroductionStates.BezierMove);
+    }
+
+    private void TickDown(float normalizedTime)
+    {
+        var cubeRenderer = Lamp.GetComponent<Renderer>().material;
+        Color color = cubeRenderer.color;
+        color.a = normalizedTime;
+        cubeRenderer.color = color;
+        return;
     }
 }

@@ -12,8 +12,9 @@ public class FollowBezier : AStateBehaviour  //MonoBehaviour //
     [SerializeField] private Transform objectToMove;
 
     [SerializeField] private float Duration = 1.0f;
-    //[SerializeField] private float Duration2 = 4.0f;
+    [SerializeField] private float Duration2 = 1.0f;
     private float Timer = 0.0f;
+    private float Timer2 = 0.0f;
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
     {
@@ -24,18 +25,28 @@ public class FollowBezier : AStateBehaviour  //MonoBehaviour //
 
     public override void OnStateStart()
     {
-      
+        Debug.Log("Timer Start");
     }
 
     public override void OnStateUpdate()
     {
-        Debug.Log("Timer Start");
-        Timer += Time.deltaTime;
-        if (Timer > Duration)
-            Timer = 0;
+        //Timer += Time.deltaTime;
+        if (Timer < Duration) //> <=
+        {
+            //Debug.Log("Bezier animation 1");
+            objectToMove.position = EvaluatePosition(Timer / Duration);
+            Timer += Time.deltaTime;
+        }
+        else
+        {
+            //Debug.Log("Bezier animation 2");
+            objectToMove.position = EvaluatePosition2(Timer2 / Duration2);
+            Timer2 += Time.deltaTime;
+        } 
+        //Timer = 0;
 
-        Debug.Log("Bezier animation");
-        objectToMove.position = EvaluatePosition(Timer / Duration);
+        //Debug.Log("Bezier animation");
+        //objectToMove.position = EvaluatePosition2(Timer / Duration);
 
         //if (Timer > Duration2)
         //    Timer = 0;
@@ -49,10 +60,11 @@ public class FollowBezier : AStateBehaviour  //MonoBehaviour //
 
     public override int StateTransitionCondition()
     {
-        //if (EvaluatePosition())
-        //{
-        //    return (int)ELanternIntroductionStates.WaitForGrab;
-        //}
+        /*if (EvaluatePosition2(normalizedTime) = 1)
+        {
+            Debug.Log("Switch to grab");
+            return (int)ELanternIntroductionStates.WaitForGrab;
+        }*/
 
         return (int)ELanternIntroductionStates.Invalid;
     }
@@ -75,8 +87,8 @@ public class FollowBezier : AStateBehaviour  //MonoBehaviour //
         //    (Mathf.Pow(normalizedTime ,2 ) * (endPosition.position - tangentPosition.position));
 
         return (tangentPosition2.position) +
-            (Mathf.Pow(1 - normalizedTime, 2) * (initialPosition.position - tangentPosition2.position)) +
-            (Mathf.Pow(normalizedTime, 2) * (endPosition.position - tangentPosition2.position));
+            (Mathf.Pow(1 - normalizedTime, 2) * (endPosition.position - tangentPosition2.position)) +
+            (Mathf.Pow(normalizedTime, 2) * (initialPosition.position - tangentPosition2.position));
     }
 }
 
