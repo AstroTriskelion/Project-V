@@ -68,7 +68,7 @@ public class FollowBezier : AStateBehaviour  //MonoBehaviour //
         if (next == true)
         {
             Debug.Log("Personality spin");
-            return (int)ELanternIntroductionStates.WaitForGrab;
+            return (int)ELanternIntroductionStates.MoveToLantern;
         }
 
         return (int)ELanternIntroductionStates.Invalid;

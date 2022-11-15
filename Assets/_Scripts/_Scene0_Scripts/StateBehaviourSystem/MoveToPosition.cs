@@ -20,7 +20,7 @@ public class MoveToPosition : AStateBehaviour  //MonoBehaviour //
 
     public override void OnStateStart()
     {
-        
+        Debug.Log("Soul starts moving");
     }
 
 
@@ -40,7 +40,7 @@ public class MoveToPosition : AStateBehaviour  //MonoBehaviour //
 
     public override int StateTransitionCondition()
     {
-        if(timer == 1)
+        if(transform.position == end.transform.position)
         {
             Debug.Log("Pass to Bezier");
             return (int)ELanternIntroductionStates.BezierMove;

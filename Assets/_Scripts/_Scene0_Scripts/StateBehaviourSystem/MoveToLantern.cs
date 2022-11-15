@@ -40,7 +40,7 @@ public class MoveToLantern : AStateBehaviour  //MonoBehaviour //
 
     public override int StateTransitionCondition()
     {
-        if(timer == 6)
+        if(transform.position == end.transform.position)
         {
             Debug.Log("Soul go back to lamp");
             return (int)ELanternIntroductionStates.WaitForGrab;
