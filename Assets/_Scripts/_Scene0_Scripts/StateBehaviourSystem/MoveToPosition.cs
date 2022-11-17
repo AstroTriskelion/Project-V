@@ -30,7 +30,7 @@ public class MoveToPosition : AStateBehaviour  //MonoBehaviour //
             return;
 
         timer += Time.deltaTime;
-        transform.position = Vector3.Lerp(start.transform.position, end.transform.position, timer);
+        transform.position = Vector3.Lerp(start.transform.position, end.transform.position, timer/2);
     }
 
     public override void OnStateEnd()

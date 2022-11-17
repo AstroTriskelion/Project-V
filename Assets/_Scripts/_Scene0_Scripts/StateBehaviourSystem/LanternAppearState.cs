@@ -5,36 +5,22 @@ using UnityEngine.Playables;
 
 public class LanternAppearState : AStateBehaviour
 {
-    //[SerializeField] private Transform lanterTransform;
-    //[SerializeField] private Light lightBelow;
-    //[SerializeField] private Light flameLight;
-    //[SerializeField] private Animator animations;
-
-    //[SerializeField] private PlayableDirector director;
-    //[SerializeField] private Material Lantern;
-    [SerializeField] private GameObject Soul;
-    [SerializeField] private float Duration = 1.0f;
+    [SerializeField] private GameObject SoulAlpha;
+    [SerializeField] private GameObject SoulSparks;
+    
     private float Timer = 0.0f;
     private bool next = false;
 
     public override bool InitializeState()
     {
-        /* if (!director)
-             return false;
-        director.stopped += OnDirectorFinished;*/
-
-        var cubeRenderer = Soul.GetComponent<Renderer>().material;
-        Color color = cubeRenderer.color;
-        color.a = 0f;
-        cubeRenderer.color = color;
-        return true;
-
-        
+        return true; 
     }
 
     public override void OnStateStart()
     {
         // director.Play();
+        SoulAlpha.GetComponent<Animator>().SetBool("Alpha_O", true);
+        SoulSparks.GetComponent<Animator>().SetBool("Sparks_O", true);
     }
 
     public override void OnStateUpdate()//> <=
@@ -48,9 +34,8 @@ public class LanternAppearState : AStateBehaviour
         else
         {
             //Debug.Log("Not done with Lamp");
-            TickDown(Timer / Duration);
             Timer += Time.deltaTime;
-            if(Timer >= Duration)
+            if(Timer >= 6)
             {
                 next = true;
             }
@@ -70,16 +55,4 @@ public class LanternAppearState : AStateBehaviour
         Debug.Log("Soul appeared");
         AssociatedStateMachine.SetState((int)ELanternIntroductionStates.MoveToPos);
     }
-
-    private void TickDown(float normalizedTime)
-    {
-        var cubeRenderer = Soul.GetComponent<Renderer>().material;
-        Color color = cubeRenderer.color;
-        color.a = normalizedTime;
-        cubeRenderer.color = color;
-        return;
-    }
 }
-
-/*var cubeRenderer = Lamp.GetComponent<Renderer>();
-        cubeRenderer.material.SetColor("_Color", Color.red);*/
