@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6746733281336505687
+--- !u!114 &-1365697817810051143
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -49,7 +49,23 @@ MonoBehaviour:
   quality:
     overrideState: 1
     value: 2
---- !u!114 &-194771846722602383
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+  m_Name: Camera Profile 1
+  m_EditorClassIdentifier: 
+  settings:
+  - {fileID: -1365697817810051143}
+  - {fileID: 6031632334596035005}
+  - {fileID: 4919591236640835137}
+--- !u!114 &4919591236640835137
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -96,23 +112,7 @@ MonoBehaviour:
   dirtIntensity:
     overrideState: 0
     value: 0
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
-  m_Name: Camera Profile
-  m_EditorClassIdentifier: 
-  settings:
-  - {fileID: -6746733281336505687}
-  - {fileID: 5136182575314997564}
-  - {fileID: -194771846722602383}
---- !u!114 &5136182575314997564
+--- !u!114 &6031632334596035005
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -171,7 +171,7 @@ MonoBehaviour:
     value: 0
   colorFilter:
     overrideState: 1
-    value: {r: 2.7607844, g: 2.5150602, b: 2.6162407, a: 1}
+    value: {r: 1.8443027, g: 1.68015, b: 1.7477423, a: 1}
   hueShift:
     overrideState: 0
     value: 0
@@ -216,13 +216,13 @@ MonoBehaviour:
     value: 100
   lift:
     overrideState: 1
-    value: {x: 0.8028917, y: 0.84191185, z: 1, w: 0}
+    value: {x: 0.87833244, y: 0.9087492, z: 1, w: 0}
   gamma:
     overrideState: 1
-    value: {x: 1, y: 0.6811338, z: 0.6859666, w: 0}
+    value: {x: 1, y: 0.71637344, z: 0.789758, w: 0}
   gain:
     overrideState: 1
-    value: {x: 1, y: 0.86078185, z: 0.59372026, w: 0}
+    value: {x: 1, y: 0.8509768, z: 0.6234595, w: 0}
   masterCurve:
     overrideState: 0
     value:
