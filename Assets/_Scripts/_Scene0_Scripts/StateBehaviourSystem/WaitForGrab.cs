@@ -4,7 +4,13 @@ using UnityEngine;
 
 public class WaitForGrab : AStateBehaviour  //MonoBehaviour //
 {
+    public bool test = false;
+    public string blabla;
 
+    public void tedfdst()
+    {
+        test = true;
+    }
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
     {
