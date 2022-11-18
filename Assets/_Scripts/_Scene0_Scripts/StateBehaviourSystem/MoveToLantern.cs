@@ -23,7 +23,6 @@ public class MoveToLantern : AStateBehaviour  //MonoBehaviour //
         
     }
 
-
     public override void OnStateUpdate()
     {
         if (!CanTransition)

@@ -21,11 +21,8 @@ public class TestAudioManagerScript : MonoBehaviour
 
       if (Input.GetKeyDown(KeyCode.Alpha2))
       {
-        AudioManager.Instance.PlaySoundAtLocation
-          (
-          clip,
-          Vector3.zero
-          );
+        AudioManager.Instance.PlaySoundAtLocation(clip,Vector3.zero);
       }
+    
     }
 }
