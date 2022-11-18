@@ -22,7 +22,10 @@ public class WaitForGrab : AStateBehaviour  //MonoBehaviour //
 
     public override void OnStateUpdate()
     {
-        
+        if (Input.GetKeyDown("space"))
+        {
+            GrabedTheLantern();
+        }
     }
 
     public override void OnStateEnd()
