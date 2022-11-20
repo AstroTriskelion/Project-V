@@ -11,12 +11,7 @@ public class TestAudioManagerScript : MonoBehaviour
     {
       if(Input.GetKeyDown(KeyCode.Alpha1))
       {
-        AudioManager.Instance.PlaySoundAtLocation
-        (
-            prefab,
-            Vector3.zero,
-            Quaternion.identity
-        );
+        AudioManager.Instance.PlaySoundAtLocation(prefab,Vector3.zero,Quaternion.identity);
       }
 
       if (Input.GetKeyDown(KeyCode.Alpha2))

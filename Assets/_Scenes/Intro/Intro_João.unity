@@ -1624,8 +1624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   grabTheLantern: 0
-  grabTheLantern2: 0
-  triggerAudioEventScript: {fileID: 1283019256}
+  triggerAudioEventScript: {fileID: 1283019257}
 --- !u!114 &1084119610
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2221,7 +2220,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   grabTheLantern: 0
-  grabTheLantern2: 0
   triggerAudioEventScript: {fileID: 0}
 --- !u!114 &1266311864
 MonoBehaviour:
@@ -2328,7 +2326,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1283019255}
   - component: {fileID: 1283019257}
-  - component: {fileID: 1283019256}
   m_Layer: 0
   m_Name: AUDIOMANAGER
   m_TagString: Untagged
@@ -2351,7 +2348,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1283019256
+--- !u!114 &1283019257
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2368,22 +2365,10 @@ MonoBehaviour:
     Clip: {fileID: 8300000, guid: 824b0ac6f22535648baaaf5d48fa16ec, type: 3}
     Position: {x: 0, y: 0, z: 0}
     Rotation: {x: 0, y: 0, z: 0}
-    OverrideTransform: {fileID: 0}
+    OverrideTransform: {fileID: 1084119616}
     ShouldParentToPoint: 0
-    DestroyOnFinish: 1
+    DestroyOnFinish: 0
     ShouldLoop: 0
---- !u!114 &1283019257
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1283019254}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c5e3972940ec4c3fa56ac93cd46ce5e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1340301885
 GameObject:
   m_ObjectHideFlags: 0

@@ -6,7 +6,7 @@ public class TriggerAudioEvent : MonoBehaviour
 {
     public bool PlayOnAwake = false;
 
-    public AudioEventData audioData;
+    public AudioEventData audioData = new AudioEventData();
 
     private AudioSource audioSource = null;
 
@@ -33,10 +33,10 @@ public class TriggerAudioEvent : MonoBehaviour
             OnAudioFinished?.Invoke();
         }
 
-        if (!audioSource.isPlaying && hasBegunPlay)
+        /*if (!audioSource.isPlaying && hasBegunPlay)
         {
             OnAudioFinished?.Invoke();
-        }
+        }*/
     }
 
     public void RequestAudio()
