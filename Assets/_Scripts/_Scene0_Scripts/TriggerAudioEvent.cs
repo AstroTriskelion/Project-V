@@ -27,7 +27,7 @@ public class TriggerAudioEvent : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (audioSource == null && hasBegunPlay)
+        if ((audioSource == null || !audioSource.isPlaying) && hasBegunPlay)
         {
             // AudioEventHas Completed So Fire Off The OnAudioTriggered
             OnAudioFinished?.Invoke();

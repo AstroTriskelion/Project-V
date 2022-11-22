@@ -4,7 +4,7 @@ using UnityEngine;
 
 public abstract class Singleton<T> : MonoBehaviour where T : MonoBehaviour
 {
-    private static readonly T LazyInstance;
+    private static T LazyInstance;
 
     public static T Instance
     {
@@ -13,7 +13,7 @@ public abstract class Singleton<T> : MonoBehaviour where T : MonoBehaviour
       {
         if (LazyInstance == null)
         {
-          CreateSingleton();
+          LazyInstance = CreateSingleton();
         }
 
         return LazyInstance;

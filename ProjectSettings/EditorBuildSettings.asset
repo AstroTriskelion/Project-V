@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/_Scenes/Intro/Intro_Jo\xE3o.unity"
+    guid: 78dc49808bd9a47e290642a5c902c644
+  - enabled: 1
+    path: Assets/_Scenes/IndoorField/IndoorField_Juliette.unity
+    guid: 0a418e1b84cb84cc0b5a006c7072e8e5
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bcbe4cf4c92019643a0bef3ab9887215, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e4adc0c2fdac6b54a94fa88ea05aef16, type: 2}
