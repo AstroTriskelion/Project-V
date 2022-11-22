@@ -37,7 +37,7 @@ public class WaitForGrab : AStateBehaviour  //MonoBehaviour //
     {
         if(grabTheLantern == true)
         {
-            SceneManager.LoadScene("IndoorField_Juliette", LoadSceneMode.Single);
+            SceneManager.LoadScene("Intro_Gonçalo", LoadSceneMode.Single);
         }
         return (int)ELanternIntroductionStates.Invalid;
     }
