@@ -20,11 +20,11 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientSkyColor: {r: 0, g: 0, b: 0, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
-  m_AmbientMode: 0
+  m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 0}
   m_HaloStrength: 0.5
@@ -294,7 +294,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 545461738}
-  - component: {fileID: 545461739}
   - component: {fileID: 545461740}
   m_Layer: 0
   m_Name: BezierExample
@@ -322,23 +321,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &545461739
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 545461737}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7337d48e2b9d504e94dd9eda24e542d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  initialPosition: {fileID: 1733151000}
-  tangentPosition: {fileID: 1248148736}
-  endPosition: {fileID: 1593524370}
-  objectToMove: {fileID: 0}
-  Duration: 5
 --- !u!114 &545461740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -379,7 +361,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 636291143}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.36, y: -0.54999995, z: -2.79}
+  m_LocalPosition: {x: 8.36, y: 1.23, z: -2.79}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1588,6 +1570,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SoulAlpha: {fileID: 384546021}
   SoulSparks: {fileID: 2124693126}
+  SoulLight: {fileID: 1234901177}
 --- !u!114 &1084119614
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1602,6 +1585,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cameraTransform: {fileID: 748313961}
   lanternTransform: {fileID: 1576727606}
+  SpawnAudio: {fileID: 1283019258}
 --- !u!114 &1084119615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1643,7 +1627,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &1130140078
 Light:
   m_ObjectHideFlags: 0
@@ -1920,6 +1904,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1234901178}
   - component: {fileID: 1234901179}
+  - component: {fileID: 1234901180}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -1953,8 +1938,8 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.32623672, g: 0, b: 1, a: 1}
-  m_Intensity: 1.09
+  m_Color: {r: 0, g: 0.06666667, b: 0.63529414, a: 0.9019608}
+  m_Intensity: 0
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2004,6 +1989,26 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!95 &1234901180
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1234901177}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4ddf647e537783a4d9c892556b497b86, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1248148735
 GameObject:
   m_ObjectHideFlags: 0
@@ -2031,7 +2036,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1248148735}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.4, y: -0.54999995, z: -3.15}
+  m_LocalPosition: {x: -10.4, y: 1.23, z: -3.15}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2384,6 +2389,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SoulAlpha: {fileID: 0}
   SoulSparks: {fileID: 0}
+  SoulLight: {fileID: 0}
 --- !u!114 &1266311868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2398,6 +2404,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cameraTransform: {fileID: 748313961}
   lanternTransform: {fileID: 1576727606}
+  SpawnAudio: {fileID: 0}
 --- !u!114 &1266311869
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2428,6 +2435,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1283019255}
   - component: {fileID: 1283019257}
+  - component: {fileID: 1283019258}
   m_Layer: 0
   m_Name: AUDIOMANAGER
   m_TagString: Untagged
@@ -2464,13 +2472,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayOnAwake: 0
   audioData:
-    Clip: {fileID: 8300000, guid: 824b0ac6f22535648baaaf5d48fa16ec, type: 3}
+    Clip: {fileID: 8300000, guid: 87501f7a2939467418c14da5b1638e2d, type: 3}
     Position: {x: 0, y: 0, z: 0}
     Rotation: {x: 0, y: 0, z: 0}
     OverrideTransform: {fileID: 1084119616}
     ShouldParentToPoint: 0
     DestroyOnFinish: 0
     ShouldLoop: 0
+--- !u!114 &1283019258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1283019254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65686995650c49d43893953ad450dee2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnLocations:
+  - {fileID: 1576727606}
+  - {fileID: 0}
+  WhatToSpawn:
+  - {fileID: 749308656638137504, guid: ee940e5f26cc66b43a71e88671e2d5ad, type: 3}
+  - {fileID: 0}
+  WhatToSpawnClone:
+  - {fileID: 749308656638137504, guid: ee940e5f26cc66b43a71e88671e2d5ad, type: 3}
+  - {fileID: 0}
 --- !u!1 &1340301885
 GameObject:
   m_ObjectHideFlags: 0
@@ -2637,6 +2666,22 @@ PrefabInstance:
     - target: {fileID: 5948442308269676405, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0.597
+      objectReference: {fileID: 0}
+    - target: {fileID: 5948442308269676407, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: m_ClearFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5948442308269676407, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5948442308269676407, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5948442308269676407, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
@@ -3110,7 +3155,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9eb0ffe37d8d2410bb1973bd8c84394a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.049
+      value: 1.41
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9eb0ffe37d8d2410bb1973bd8c84394a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3352,7 +3397,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1593524369}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.35, y: -1.65, z: 2.11}
+  m_LocalPosition: {x: -0.35, y: 0.13, z: 2.11}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3449,7 +3494,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1733150999}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.51, y: -1.44, z: -8.11}
+  m_LocalPosition: {x: -0.51, y: 0.34, z: -8.11}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []

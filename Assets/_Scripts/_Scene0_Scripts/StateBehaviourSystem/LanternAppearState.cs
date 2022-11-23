@@ -7,7 +7,8 @@ public class LanternAppearState : AStateBehaviour
 {
     [SerializeField] private GameObject SoulAlpha;
     [SerializeField] private GameObject SoulSparks;
-    
+    [SerializeField] private GameObject SoulLight;
+
     private float Timer = 0.0f;
     private bool next = false;
 
@@ -21,6 +22,7 @@ public class LanternAppearState : AStateBehaviour
         // director.Play();
         SoulAlpha.GetComponent<Animator>().SetBool("Alpha_O", true);
         SoulSparks.GetComponent<Animator>().SetBool("Sparks_O", true);
+        SoulLight.GetComponent<Animator>().SetBool("Light_O", true);
     }
 
     public override void OnStateUpdate()//> <=
