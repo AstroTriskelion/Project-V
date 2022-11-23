@@ -1571,6 +1571,7 @@ MonoBehaviour:
   SoulAlpha: {fileID: 384546021}
   SoulSparks: {fileID: 2124693126}
   SoulLight: {fileID: 1234901177}
+  SpawnAudio: {fileID: 1283019258}
 --- !u!114 &1084119614
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2390,6 +2391,7 @@ MonoBehaviour:
   SoulAlpha: {fileID: 0}
   SoulSparks: {fileID: 0}
   SoulLight: {fileID: 0}
+  SpawnAudio: {fileID: 0}
 --- !u!114 &1266311868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2493,13 +2495,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnLocations:
   - {fileID: 1576727606}
-  - {fileID: 0}
+  - {fileID: 1084119616}
   WhatToSpawn:
   - {fileID: 749308656638137504, guid: ee940e5f26cc66b43a71e88671e2d5ad, type: 3}
-  - {fileID: 0}
+  - {fileID: 3488873589089354908, guid: a24472da1c3f02e4ea98cceb588fbc5b, type: 3}
   WhatToSpawnClone:
   - {fileID: 749308656638137504, guid: ee940e5f26cc66b43a71e88671e2d5ad, type: 3}
-  - {fileID: 0}
+  - {fileID: 3488873589089354908, guid: a24472da1c3f02e4ea98cceb588fbc5b, type: 3}
 --- !u!1 &1340301885
 GameObject:
   m_ObjectHideFlags: 0
