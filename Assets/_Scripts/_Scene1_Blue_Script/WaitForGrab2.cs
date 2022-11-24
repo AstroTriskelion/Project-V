@@ -36,6 +36,7 @@ public class WaitForGrab2 : AStateBehaviour
     {
         if (grabTheLantern == true)
         {
+            Debug.Log("Switch to green");
             SceneManager.LoadScene("IndoorField_Juliette", LoadSceneMode.Single);
         }
         return (int)ELanternIntroductionStates.Invalid;

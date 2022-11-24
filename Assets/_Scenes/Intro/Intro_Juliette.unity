@@ -3124,6 +3124,59 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 129.454, y: -30, z: 0}
+--- !u!1 &1106115005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1106115007}
+  - component: {fileID: 1106115006}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1106115006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106115005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abd80428983cf004da9187db664a1bdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayOnAwake: 0
+  audioData:
+    Clip: {fileID: 8300000, guid: 46408723bf090a04d9bf5e9308099f23, type: 3}
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+    OverrideTransform: {fileID: 1700714119}
+    ShouldParentToPoint: 0
+    DestroyOnFinish: 0
+    ShouldLoop: 0
+--- !u!4 &1106115007
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106115005}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.2510314, y: 1.2351835, z: -155.79558}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1123080419
 GameObject:
   m_ObjectHideFlags: 0
@@ -5134,6 +5187,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1688832201}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1700714119 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0cbfa00e2809b43eba6fe92c4c79eb53, type: 3}
+  m_PrefabInstance: {fileID: 159930723}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1700750164 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5948442308311732210, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
@@ -7033,6 +7091,8 @@ GameObject:
   - component: {fileID: 2096517110}
   - component: {fileID: 2096517109}
   - component: {fileID: 2096517113}
+  - component: {fileID: 2096517115}
+  - component: {fileID: 2096517114}
   m_Layer: 0
   m_Name: Plane (1)
   m_TagString: Untagged
@@ -7132,3 +7192,32 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 9.999999, y: 2.2204463e-16, z: 9.999999}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2096517114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096517108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb670511238e2648a2c2d7e369ffd85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grabTheLantern: 0
+  triggerAudioEventScript: {fileID: 1106115006}
+--- !u!114 &2096517115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096517108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3fbcd95b119ee4a884ac74075c02fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stateBehaviours:
+  - {fileID: 2096517114}
+  defaultState: 0
