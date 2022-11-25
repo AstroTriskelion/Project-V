@@ -5,7 +5,7 @@ using UnityEngine;
 public class WaitForGrab2 : AStateBehaviour
 {
     public bool grabTheLantern = false;
-    //public TriggerAudioEvent triggerAudioEventScript;
+    public TriggerAudioEvent triggerAudioEventScript;
     public SpawnAudioPrefabs SpawnAudio;
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -39,15 +39,15 @@ public class WaitForGrab2 : AStateBehaviour
         if (grabTheLantern == true)
         {
             Debug.Log("Switch to green");
-            //SceneManager.LoadScene("IndoorField_Juliette", LoadSceneMode.Single);
+            SceneManager.LoadScene("IndoorField_Juliette", LoadSceneMode.Single);
         }
         return (int)ELanternIntroductionStates.Invalid;
     }
     public void GrabedTheLantern()
     {
-        //grabTheLantern = true;
-        //triggerAudioEventScript.RequestAudio();
-        //triggerAudioEventScript.OnAudioFinished += OnAudioCompleted;
+        grabTheLantern = true;
+        triggerAudioEventScript.RequestAudio();
+        triggerAudioEventScript.OnAudioFinished += OnAudioCompleted;
         SpawnAudio.spawnAudioPrefab(1);
         Debug.Log("You grabbed it");
         return;
