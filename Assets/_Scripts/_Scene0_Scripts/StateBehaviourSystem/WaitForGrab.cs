@@ -6,8 +6,8 @@ using UnityEngine;
 public class WaitForGrab : AStateBehaviour  //MonoBehaviour //
 {
     public bool grabTheLantern = false;
-    public TriggerAudioEvent triggerAudioEventScript;
-   
+    public SpawnAudioPrefabs SpawnAudio;
+
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
     {
@@ -44,8 +44,10 @@ public class WaitForGrab : AStateBehaviour  //MonoBehaviour //
     public void GrabedTheLantern()
     {
         //grabTheLantern = true;
-        triggerAudioEventScript.RequestAudio();
-        triggerAudioEventScript.OnAudioFinished += OnAudioCompleted;
+        //triggerAudioEventScript.RequestAudio();
+        //triggerAudioEventScript.OnAudioFinished += OnAudioCompleted;
+        
+        SpawnAudio.spawnAudioPrefab(2);
         Debug.Log("You grabbed it");
         return;
     }

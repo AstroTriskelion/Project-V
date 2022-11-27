@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 913381715890877896}
   - component: {fileID: 2220048563302382555}
+  - component: {fileID: 8107750202022112124}
+  - component: {fileID: 4254409216932590490}
   m_Layer: 0
   m_Name: Audio1
   m_TagString: Untagged
@@ -53,9 +55,9 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 2
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -63,23 +65,50 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0
+      time: 0.1
       value: 1
-      inSlope: 0
-      outSlope: 0
+      inSlope: -10.0039835
+      outSlope: -10.0039835
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.1128418
+      value: 0.405838
+      inSlope: -11.6593485
+      outSlope: -11.6593485
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.17378828
+    - serializedVersion: 3
+      time: 0.1937317
+      value: 0.08306885
+      inSlope: -0.46356905
+      outSlope: -0.46356905
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.27198282
+    - serializedVersion: 3
+      time: 0.6460236
+      value: 0.017990112
+      inSlope: 0.005193526
+      outSlope: 0.005193526
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.490512
     - serializedVersion: 3
       time: 1
       value: 0
-      inSlope: 0
-      outSlope: 0
+      inSlope: -0.10003988
+      outSlope: -0.10003988
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
+      inWeight: 0
+      outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
@@ -128,3 +157,28 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &8107750202022112124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1619922785383441664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3317b4b71b3c644492cc5875e5eb42a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4254409216932590490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1619922785383441664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ba190dc061f2654bb816a039a7a7650, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectToFollow: {fileID: 0}

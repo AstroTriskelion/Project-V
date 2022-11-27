@@ -4,20 +4,20 @@ using UnityEngine;
 
 public class Watch : AStateBehaviour
 {
-    public TriggerAudioEvent triggerAudioEventScript;
-    //public SpawnAudioPrefabs SpawnAudio;
+    public SpawnAudioPrefabs SpawnAudio;
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
     {
-
         return true;
     }
 
     public override void OnStateStart()
     {
         Debug.Log("Grab it");
-        triggerAudioEventScript.RequestAudio();
+        SpawnAudio.spawnAudioPrefab(0);
+        SpawnAudio.spawnAudioPrefab(1);
+        SpawnAudio.spawnAudioPrefab(2);
     }
 
     public override void OnStateUpdate()

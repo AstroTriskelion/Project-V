@@ -5,16 +5,21 @@ using UnityEngine;
 public class DestroyNoAudio : MonoBehaviour
 {
     AudioSource audioSource;
-    // Start is called before the first frame update
+    public WaitForGrab Trigger;
+
+
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
+
+        Trigger = GameObject.Find("Flame").GetComponent<WaitForGrab>();
     }
 
     void Update()
     {
         if (!audioSource.isPlaying)
         {
+            Trigger.OnAudioCompleted();
             Destroy(gameObject);
         }
     }
