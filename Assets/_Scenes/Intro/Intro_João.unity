@@ -427,7 +427,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d00ede9c058c6f47951a4065dd1f9b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToFollow: {fileID: 748313961}
+  objectToFollow: {fileID: 2102417983}
 --- !u!1 &636291143
 GameObject:
   m_ObjectHideFlags: 0
@@ -622,11 +622,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 660719125}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &748313961 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5948442308269676405, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
-  m_PrefabInstance: {fileID: 1354314733}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &841470554
 GameObject:
   m_ObjectHideFlags: 0
@@ -644,7 +639,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &841470555
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1581,7 +1576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e7463b36ff778d4aa2a7bba5fa06bd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 748313961}
+  cameraTransform: {fileID: 2102417983}
   lanternTransform: {fileID: 1576727606}
   SpawnAudio: {fileID: 1283019258}
 --- !u!114 &1084119615
@@ -2151,7 +2146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 0}
-  m_TurnAmount: 45
+  m_TurnAmount: 25
   m_DebounceTime: 0.5
   m_EnableTurnLeftRight: 1
   m_EnableTurnAround: 1
@@ -2299,7 +2294,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554725, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_RootOrder
@@ -2841,15 +2836,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9eb0ffe37d8d2410bb1973bd8c84394a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 45.884396
+      value: 20.33367
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9eb0ffe37d8d2410bb1973bd8c84394a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 45.884396
+      value: 20.33367
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9eb0ffe37d8d2410bb1973bd8c84394a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 45.884396
+      value: 20.33367
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9eb0ffe37d8d2410bb1973bd8c84394a, type: 3}
       propertyPath: m_LocalPosition.x
