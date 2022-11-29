@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4232441683635482507}
   - component: {fileID: 4232441683635482505}
-  - component: {fileID: 2192279348571256161}
   m_Layer: 0
   m_Name: _Soul_Sound
   m_TagString: Untagged
@@ -45,7 +44,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: cbcbf52453cf7fc4ea0f39d19417fa66, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.25
+  m_Volume: 0.066
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -64,41 +63,41 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0.1
-      value: 1
-      inSlope: -10.0039835
-      outSlope: -10.0039835
+      time: 0
+      value: 0.60622406
+      inSlope: -3.5477252
+      outSlope: -3.5477252
       tangentMode: 0
       weightedMode: 0
       inWeight: 0
-      outWeight: 0
+      outWeight: 0.3566116
     - serializedVersion: 3
-      time: 0.13898773
-      value: 0.38871765
-      inSlope: -12.317704
-      outSlope: -12.317704
+      time: 0.12155457
+      value: 0.36732483
+      inSlope: -1.4755791
+      outSlope: -1.4755791
       tangentMode: 0
       weightedMode: 0
       inWeight: 0
-      outWeight: 0.22482276
+      outWeight: 0.6348722
     - serializedVersion: 3
-      time: 0.21116486
-      value: 0.044555664
-      inSlope: -0.0053251353
-      outSlope: -0.0053251353
+      time: 0.29252473
+      value: 0.1558075
+      inSlope: -0.96028435
+      outSlope: -0.96028435
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
-      outWeight: 0.31859007
+      inWeight: 0.9496249
+      outWeight: 0.3038235
     - serializedVersion: 3
-      time: 0.7447937
-      value: 0.0051574707
-      inSlope: -0.028559513
-      outSlope: -0.028559513
+      time: 0.7506226
+      value: 0.030853271
+      inSlope: -0.034307808
+      outSlope: -0.034307808
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
-      outWeight: 0.5901733
+      inWeight: 0.32042095
+      outWeight: 0.5825379
     - serializedVersion: 3
       time: 1
       value: 0
@@ -156,16 +155,3 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &2192279348571256161
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4232441683635482504}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ba190dc061f2654bb816a039a7a7650, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objectToFollow: {fileID: 0}

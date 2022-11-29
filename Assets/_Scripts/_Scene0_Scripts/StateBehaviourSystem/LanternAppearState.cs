@@ -23,7 +23,7 @@ public class LanternAppearState : AStateBehaviour
         SoulAlpha.GetComponent<Animator>().SetBool("Alpha_O", true);
         SoulSparks.GetComponent<Animator>().SetBool("Sparks_O", true);
         SoulLight.GetComponent<Animator>().SetBool("Light_O", true);
-        SpawnAudio.spawnAudioPrefab(1);
+        SpawnAudio.spawnAudioPrefab(1, true);
     }
 
     public override void OnStateUpdate()//> <=

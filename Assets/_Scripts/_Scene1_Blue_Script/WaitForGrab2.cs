@@ -17,8 +17,8 @@ public class WaitForGrab2 : AStateBehaviour
     public override void OnStateStart()
     {
         Debug.Log("Grab it");
-        SpawnAudio.spawnAudioPrefab(0);
-        SpawnAudio.spawnAudioPrefab(2);
+        SpawnAudio.spawnAudioPrefab(0, true);
+        SpawnAudio.spawnAudioPrefab(2, true);
     }
 
     public override void OnStateUpdate()
@@ -45,7 +45,7 @@ public class WaitForGrab2 : AStateBehaviour
     }
     public void GrabedTheLantern()
     {
-        SpawnAudio.spawnAudioPrefab(1);
+        SpawnAudio.spawnAudioPrefab(1, true);
         Debug.Log("You grabbed it");
         return;
     }

@@ -15,8 +15,8 @@ public class Watch : AStateBehaviour
     public override void OnStateStart()
     {
         Debug.Log("Grab it");
-        SpawnAudio.spawnAudioPrefab(0);
-        SpawnAudio.spawnAudioPrefab(1);
+        SpawnAudio.spawnAudioPrefab(0, true);
+        SpawnAudio.spawnAudioPrefab(1, true);
         SpawnAudio.spawnAudioPrefab(2);
     }
 

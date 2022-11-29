@@ -47,7 +47,7 @@ public class WaitForGrab : AStateBehaviour  //MonoBehaviour //
         //triggerAudioEventScript.RequestAudio();
         //triggerAudioEventScript.OnAudioFinished += OnAudioCompleted;
         
-        SpawnAudio.spawnAudioPrefab(2);
+        SpawnAudio.spawnAudioPrefab(2, true);
         Debug.Log("You grabbed it");
         return;
     }
