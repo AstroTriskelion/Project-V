@@ -284,7 +284,7 @@
                 {
                     "name": "",
                     "id": "71a4d23f-3e9a-4513-923b-ba388c5e84bf",
-                    "path": "<XRController>{LeftHand}/gripPressed",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerLeft>{LeftHand}/triggerpressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
@@ -377,9 +377,9 @@
             "actions": [
                 {
                     "name": "Teleport Select",
-                    "type": "Value",
+                    "type": "Button",
                     "id": "cbeaf823-3b69-4004-8ec8-13ea2ca3fc31",
-                    "expectedControlType": "Vector2",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -449,17 +449,6 @@
                 }
             ],
             "bindings": [
-                {
-                    "name": "",
-                    "id": "95fa1419-ca7b-4c8a-8d15-7d46e58d82e3",
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=1,sweepBehavior=3)",
-                    "processors": "",
-                    "groups": "Noncontinuous Move",
-                    "action": "Teleport Select",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
                 {
                     "name": "",
                     "id": "8da6ed3a-f621-49fe-8c76-1f6b7d7754d6",
@@ -774,7 +763,7 @@
                 {
                     "name": "",
                     "id": "1ce80054-410d-4112-a332-50faa7fb4f23",
-                    "path": "<XRController>{RightHand}/gripPressed",
+                    "path": "<XRController>{RightHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
