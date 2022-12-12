@@ -43856,6 +43856,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 884175737845874306, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 884175737845874306, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: m_ShowCustomSorter
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 884175737845874306, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: volumeLayer.m_Bits
+      value: 246
+      objectReference: {fileID: 0}
+    - target: {fileID: 3715194358196828969, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: isGlobal
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554725, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_Name
       value: FPSPlayer (2)
@@ -43932,7 +43948,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0.597
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3715194358196828969, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+    - {fileID: 884175737845874306, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
 --- !u!1 &1100843815 stripped
 GameObject:
