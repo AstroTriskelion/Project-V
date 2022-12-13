@@ -506,7 +506,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.944598, b: 0.7028302, a: 1}
   m_Intensity: 1.9
   m_Range: 19.95
   m_SpotAngle: 30
@@ -41654,7 +41654,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.944598, b: 0.7028302, a: 1}
   m_Intensity: 1.9
   m_Range: 19.95
   m_SpotAngle: 30
@@ -42071,7 +42071,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.944598, b: 0.7028302, a: 1}
   m_Intensity: 1.9
   m_Range: 19.95
   m_SpotAngle: 30
@@ -43942,15 +43942,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5948442308269676405, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9999864
+      value: 0.96029836
       objectReference: {fileID: 0}
     - target: {fileID: 5948442308269676405, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.0052123666
+      value: 0.27897507
       objectReference: {fileID: 0}
     - target: {fileID: 5948442308269676405, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0.597
+      value: 32.398
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3715194358196828969, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
@@ -45086,7 +45086,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.944598, b: 0.7028302, a: 1}
   m_Intensity: 1.9
   m_Range: 19.95
   m_SpotAngle: 30
@@ -46055,7 +46055,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.944598, b: 0.7028302, a: 1}
   m_Intensity: 1.9
   m_Range: 19.95
   m_SpotAngle: 30
@@ -46575,7 +46575,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.944598, b: 0.7028302, a: 1}
   m_Intensity: 1.9
   m_Range: 19.95
   m_SpotAngle: 30
@@ -48281,7 +48281,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.944598, b: 0.7028302, a: 1}
   m_Intensity: 1.9
   m_Range: 19.95
   m_SpotAngle: 30
