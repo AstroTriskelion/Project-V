@@ -5349,6 +5349,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 884175737845874306, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: volumeLayer.m_Bits
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554725, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_Name
       value: FPSPlayer (1)
