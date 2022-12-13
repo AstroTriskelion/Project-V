@@ -5353,6 +5353,10 @@ PrefabInstance:
       propertyPath: volumeLayer.m_Bits
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 3715194358196828969, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: sharedProfile
+      value: 
+      objectReference: {fileID: 11400000, guid: 31bbfcc36ec124d019252e94f092d2d6, type: 2}
     - target: {fileID: 5948442307397554725, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_Name
       value: FPSPlayer (1)
@@ -5433,7 +5437,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0.597
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3715194358196828969, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+    - {fileID: 884175737845874306, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
 --- !u!1 &1442258405 stripped
 GameObject:
@@ -5517,7 +5523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sharedProfile: {fileID: 11400000, guid: 6fcd39802aa54408e88bf37b0f20f337, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 31bbfcc36ec124d019252e94f092d2d6, type: 2}
   isGlobal: 1
   blendDistance: 0
   weight: 1
