@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1443073917}
-  m_IndirectSpecularColor: {r: 0.18708503, g: 0.5386683, b: 0.8534623, a: 1}
+  m_IndirectSpecularColor: {r: 0.18711078, g: 0.5395845, b: 0.8479867, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2183,7 +2183,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &807442346
 MeshRenderer:
@@ -3058,7 +3058,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027312960}
   m_LocalRotation: {x: -0.49995324, y: 0.5000468, z: 0.50004673, w: 0.49995327}
-  m_LocalPosition: {x: 5.51, y: 1.97, z: 15.74}
+  m_LocalPosition: {x: 5.599, y: 1.97, z: 15.74}
   m_LocalScale: {x: 0.23549166, y: 1, z: 0.13345623}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3710,7 +3710,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a1414a451dba94d5b903be7794a8f96e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3747,14 +3747,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1193000046}
-  m_LocalRotation: {x: -0.5, y: -0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -5.54, y: 1.97, z: 15.74}
-  m_LocalScale: {x: 0.23549166, y: 1, z: 0.13345623}
+  m_LocalRotation: {x: 0.49128875, y: 0.5162615, z: -0.49230492, w: 0.4997453}
+  m_LocalPosition: {x: -5.51, y: 1.97, z: 15.76}
+  m_LocalScale: {x: 0.18245658, y: 1, z: 0.13345623}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 21
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: -90}
+  m_LocalEulerAnglesHint: {x: -267.941, y: 296.06, z: -154.945}
 --- !u!1 &1239854710
 GameObject:
   m_ObjectHideFlags: 0
@@ -8717,7 +8717,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 8754ecd029b234cbba66da4a31f4a029, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8754,14 +8754,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2041014080}
-  m_LocalRotation: {x: -0.5, y: -0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -5.54, y: 1.97, z: 13.14}
-  m_LocalScale: {x: 0.23549166, y: 1, z: 0.13345623}
+  m_LocalRotation: {x: 0.4857712, y: 0.511154, z: -0.496445, w: 0.50625134}
+  m_LocalPosition: {x: -5.51, y: 1.97, z: 13.05}
+  m_LocalScale: {x: 0.1611281, y: 1, z: 0.13345623}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 22
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: -90}
+  m_LocalEulerAnglesHint: {x: -267.957, y: 261.133, z: -189.76}
 --- !u!1 &2043243945
 GameObject:
   m_ObjectHideFlags: 0
@@ -9102,13 +9102,61 @@ PrefabInstance:
       propertyPath: m_Lightmapping
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 426835611673019084, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 639569288726337830, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 964824876001629317, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1217485060080494091, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1611088232576031532, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
       propertyPath: m_Lightmapping
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2016946658458856836, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3431638629366679232, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3906821212947343900, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4150013927130280781, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4660725928082078329, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4691723266288428028, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4719697533263936729, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
       propertyPath: m_Name
       value: Desk
+      objectReference: {fileID: 0}
+    - target: {fileID: 4719697533263936729, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816885213802342957, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5074118933810679869, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -9174,6 +9222,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5700368500886401921, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5929350807212218513, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
       propertyPath: m_Lightmapping
       value: 2
@@ -9182,9 +9234,29 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: -1444460858095362738, guid: f7318fa5270f64082ade4130c4d1ed5c, type: 3}
+    - target: {fileID: 6728637311059761717, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783983431280170175, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6825995321716095342, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
       propertyPath: m_Lightmapping
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7181760161543273677, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7476292354258694819, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8507601874385478679, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5208484e7aaad4480beeb6ebe0ebe62a, type: 3}
@@ -9204,7 +9276,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &4581106915168268870
 MeshFilter:
