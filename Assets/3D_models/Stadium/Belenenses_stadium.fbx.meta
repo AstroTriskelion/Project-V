@@ -3,7 +3,32 @@ guid: a149b86480755a44793713409496d862
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piller holders
+    second: {fileID: 2100000, guid: 2c504c5e584e9a5408000c5c64c9b8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillers
+    second: {fileID: 2100000, guid: d2b44711b9890e94c8bf1d993e48c9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: c6cb67d5818289a45ba0a6e63660a19d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stadium
+    second: {fileID: 2100000, guid: a801b7157f06161498dddfdbb324a5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows
+    second: {fileID: 2100000, guid: 98cfeb6c5d496ee4abe5ec19fe7da940, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
