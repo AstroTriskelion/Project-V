@@ -428,7 +428,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d00ede9c058c6f47951a4065dd1f9b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToFollow: {fileID: 1354314734}
+  objectToFollow: {fileID: 2102417983}
 --- !u!1 &636291143
 GameObject:
   m_ObjectHideFlags: 0
@@ -640,7 +640,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &841470555
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1577,7 +1577,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e7463b36ff778d4aa2a7bba5fa06bd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 1354314734}
+  cameraTransform: {fileID: 2102417983}
   lanternTransform: {fileID: 1576727606}
   SpawnAudio: {fileID: 1283019258}
 --- !u!114 &1084119615
@@ -2295,7 +2295,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554725, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_RootOrder
@@ -2383,11 +2383,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
---- !u!4 &1354314734 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5948442308269676405, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
-  m_PrefabInstance: {fileID: 1354314733}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1426042753
 GameObject:
   m_ObjectHideFlags: 0
