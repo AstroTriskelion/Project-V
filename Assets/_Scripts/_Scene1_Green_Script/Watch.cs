@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class Watch : AStateBehaviour
 {
     public SpawnAudioPrefabs SpawnAudio;
+    public bool grabTheLantern = false;
+    
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
@@ -32,8 +35,16 @@ public class Watch : AStateBehaviour
 
     public override int StateTransitionCondition()
     {
-        
+        if (grabTheLantern == true)
+        {
+            Debug.Log("Switch to Museum");
+            SceneManager.LoadScene("Museum_João", LoadSceneMode.Single);
+        }
         return (int)ELanternIntroductionStates.Invalid;
     }
-    
+
+    public void OnAudioCompleted()
+    {
+        grabTheLantern = true;
+    }
 }
