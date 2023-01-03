@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7195463800667303013}
   - component: {fileID: 7195463800667303012}
-  - component: {fileID: -2983313034175264597}
+  - component: {fileID: -9138303927069788726}
   m_Layer: 0
   m_Name: _Soul_Voice_3
   m_TagString: Untagged
@@ -138,7 +138,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &-2983313034175264597
+--- !u!114 &-9138303927069788726
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -147,6 +147,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7195463800667303035}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3317b4b71b3c644492cc5875e5eb42a, type: 3}
+  m_Script: {fileID: 11500000, guid: b4e1452bdf8b12340a9c94fc5c0f702e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Trigger: {fileID: 0}
