@@ -621,6 +621,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: chalkboard-cafe-menu-001 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5494659886970537693, guid: 3d5e646bee58445e48dc8a3b960ba344, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df06cc55f801f48cf995b2339021381a, type: 2}
+    - target: {fileID: 8642088260975311737, guid: 3d5e646bee58445e48dc8a3b960ba344, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: aca8c192bdaf2455b9f17beb62251636, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d5e646bee58445e48dc8a3b960ba344, type: 3}
 --- !u!1 &172581481
@@ -1675,19 +1683,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.12
+      value: 68.3
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.35
+      value: 7.4
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.71
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.6993175
+      value: -0.6065959
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalRotation.x
@@ -1695,7 +1703,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.7148112
+      value: 0.7950104
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalRotation.z
@@ -1707,7 +1715,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 91.255
+      value: 254.688
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -2897,15 +2905,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cbe06fd3ff90f4b359d3e25886968c42, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.35
+      value: 62.72
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cbe06fd3ff90f4b359d3e25886968c42, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.41
+      value: 6.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cbe06fd3ff90f4b359d3e25886968c42, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 42.4
+      value: 64.64
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cbe06fd3ff90f4b359d3e25886968c42, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4209,6 +4217,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: table-tent-004
       objectReference: {fileID: 0}
+    - target: {fileID: 5105844331944707565, guid: 7645e032412e6430f9357d3f2fb84ec1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4b993f0e13a754abbae0d1d7c0c18b52, type: 2}
+    - target: {fileID: 7651041999150293923, guid: 7645e032412e6430f9357d3f2fb84ec1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4b993f0e13a754abbae0d1d7c0c18b52, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7645e032412e6430f9357d3f2fb84ec1, type: 3}
 --- !u!1 &1425344677
@@ -4854,6 +4870,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: chalkboard-cafe-menu-001
       objectReference: {fileID: 0}
+    - target: {fileID: 5494659886970537693, guid: 3d5e646bee58445e48dc8a3b960ba344, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df06cc55f801f48cf995b2339021381a, type: 2}
+    - target: {fileID: 8642088260975311737, guid: 3d5e646bee58445e48dc8a3b960ba344, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: aca8c192bdaf2455b9f17beb62251636, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d5e646bee58445e48dc8a3b960ba344, type: 3}
 --- !u!1 &1774376080
