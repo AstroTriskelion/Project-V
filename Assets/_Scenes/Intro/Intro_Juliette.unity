@@ -1166,6 +1166,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ee00be7bf430c4b93ae118bb1bc9c086, type: 3}
+      propertyPath: m_Materials.Array.data[6]
+      value: 
+      objectReference: {fileID: 2100000, guid: 94a4565e3ff984b41a29228dcd7c76fe, type: 2}
     - target: {fileID: 919132149155446097, guid: ee00be7bf430c4b93ae118bb1bc9c086, type: 3}
       propertyPath: m_Name
       value: uploads_files_3854686_Low+Poly+Stylized+Pot+Plant
@@ -3358,6 +3362,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ee00be7bf430c4b93ae118bb1bc9c086, type: 3}
+      propertyPath: m_Materials.Array.data[6]
+      value: 
+      objectReference: {fileID: 2100000, guid: 94a4565e3ff984b41a29228dcd7c76fe, type: 2}
     - target: {fileID: 919132149155446097, guid: ee00be7bf430c4b93ae118bb1bc9c086, type: 3}
       propertyPath: m_Name
       value: uploads_files_3854686_Low+Poly+Stylized+Pot+Plant (1)
@@ -3722,7 +3730,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 76a4f6d7bcb4d4f5e86e50ff4dddbded, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f1a7569545c1b5143994b1ff7b7eac12, type: 2}
+      objectReference: {fileID: 2100000, guid: d8327e380406e4c8181538b78057f35e, type: 2}
     - target: {fileID: 919132149155446097, guid: 76a4f6d7bcb4d4f5e86e50ff4dddbded, type: 3}
       propertyPath: m_Name
       value: chairs2 (1)
@@ -5871,7 +5879,7 @@ PrefabInstance:
     - target: {fileID: -9141893154849019765, guid: 7b244f5a2a11c4ba3b98f6c05a487551, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 1751724983121545962, guid: 001d670fed1424ee6b68e4a513f52bbc, type: 3}
+      objectReference: {fileID: -6478536213147159724, guid: 0ee827d07cd234273819b44f2c843deb, type: 3}
     - target: {fileID: -8679921383154817045, guid: 7b244f5a2a11c4ba3b98f6c05a487551, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -5947,7 +5955,7 @@ PrefabInstance:
     - target: {fileID: -529201795361079875, guid: 7b244f5a2a11c4ba3b98f6c05a487551, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 345727b2151124a47ac22cf52cd160f5, type: 2}
+      objectReference: {fileID: -6478536213147159724, guid: 0ee827d07cd234273819b44f2c843deb, type: 3}
     - target: {fileID: 919132149155446097, guid: 7b244f5a2a11c4ba3b98f6c05a487551, type: 3}
       propertyPath: m_Name
       value: Sketchfab_2022_10_29_14_47_57
@@ -6509,7 +6517,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 792aae07a8b274f4aa89119af8cda28b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: -876546973899608171, guid: 30dc617709ac34048b9e19bda35387b6, type: 3}
+      objectReference: {fileID: 2100000, guid: df06cc55f801f48cf995b2339021381a, type: 2}
     - target: {fileID: 919132149155446097, guid: 792aae07a8b274f4aa89119af8cda28b, type: 3}
       propertyPath: m_Name
       value: trash
@@ -7810,7 +7818,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 76a4f6d7bcb4d4f5e86e50ff4dddbded, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f1a7569545c1b5143994b1ff7b7eac12, type: 2}
+      objectReference: {fileID: 2100000, guid: d8327e380406e4c8181538b78057f35e, type: 2}
     - target: {fileID: 919132149155446097, guid: 76a4f6d7bcb4d4f5e86e50ff4dddbded, type: 3}
       propertyPath: m_Name
       value: chairs2 (2)
@@ -8606,7 +8614,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 76a4f6d7bcb4d4f5e86e50ff4dddbded, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f1a7569545c1b5143994b1ff7b7eac12, type: 2}
+      objectReference: {fileID: 2100000, guid: d8327e380406e4c8181538b78057f35e, type: 2}
     - target: {fileID: 919132149155446097, guid: 76a4f6d7bcb4d4f5e86e50ff4dddbded, type: 3}
       propertyPath: m_Name
       value: chairs2
