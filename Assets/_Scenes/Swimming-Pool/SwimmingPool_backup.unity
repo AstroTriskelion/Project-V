@@ -43298,18 +43298,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 0}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: m_ShowCustomSorter
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: volumeLayer.m_Bits
-      value: 246
-      objectReference: {fileID: 0}
     - target: {fileID: 3715194358196828969, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: isGlobal
       value: 1
