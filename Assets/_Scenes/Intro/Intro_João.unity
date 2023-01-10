@@ -2277,11 +2277,11 @@ MonoBehaviour:
   WhatToSpawn:
   - {fileID: 749308656638137504, guid: ee940e5f26cc66b43a71e88671e2d5ad, type: 3}
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
-  - {fileID: 7407458167084877055, guid: c88946282bb9c2d46a2f3a2f0e1af29f, type: 3}
+  - {fileID: 7407458167084877055, guid: 2d439908fd368684da7024b5dfeddaaa, type: 3}
   WhatToSpawnClone:
   - {fileID: 749308656638137504, guid: ee940e5f26cc66b43a71e88671e2d5ad, type: 3}
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
-  - {fileID: 7407458167084877055, guid: c88946282bb9c2d46a2f3a2f0e1af29f, type: 3}
+  - {fileID: 7407458167084877055, guid: 2d439908fd368684da7024b5dfeddaaa, type: 3}
 --- !u!1001 &1354314733
 PrefabInstance:
   m_ObjectHideFlags: 0

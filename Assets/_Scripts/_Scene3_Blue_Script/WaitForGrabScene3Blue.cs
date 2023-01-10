@@ -5,6 +5,7 @@ using UnityEngine;
 public class WaitForGrabScene3Blue : AStateBehaviour
 {
     public bool grabTheLantern = false;
+    public bool repeat = false;
     public SpawnAudioPrefabs SpawnAudio;
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -16,7 +17,9 @@ public class WaitForGrabScene3Blue : AStateBehaviour
 
     public override void OnStateStart()
     {
-        Debug.Log("Grab it");
+        Debug.Log("Find it");
+        SpawnAudio.spawnAudioPrefab(0, true);
+        SpawnAudio.spawnAudioPrefab(1);
     }
 
     public override void OnStateUpdate()
@@ -43,8 +46,12 @@ public class WaitForGrabScene3Blue : AStateBehaviour
     }
     public void GrabedTheLantern()
     {
-        grabTheLantern = true;
-        Debug.Log("You grabbed it");
+        if (repeat == false)
+        {
+            grabTheLantern = true;
+            Debug.Log("You found it");
+            repeat = true;
+        }
         return;
     }
 

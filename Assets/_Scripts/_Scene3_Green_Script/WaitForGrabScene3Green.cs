@@ -4,27 +4,25 @@ using UnityEngine.SceneManagement;
 using UnityEngine;
 public class WaitForGrabScene3Green : AStateBehaviour
 {
-    public bool grabTheLantern = false;
+    public bool AudioFinished = false;
     public SpawnAudioPrefabs SpawnAudio;
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
     {
-
         return true;
     }
 
     public override void OnStateStart()
     {
-        Debug.Log("Grab it");
+        Debug.Log("Listen");
+        SpawnAudio.spawnAudioPrefab(0, true);
+        SpawnAudio.spawnAudioPrefab(1, true);
+        SpawnAudio.spawnAudioPrefab(2);
     }
 
     public override void OnStateUpdate()
     {
-        if (Input.GetKeyDown("space"))
-        {
-            GrabedTheLantern();
-        }
     }
 
     public override void OnStateEnd()
@@ -34,22 +32,16 @@ public class WaitForGrabScene3Green : AStateBehaviour
 
     public override int StateTransitionCondition()
     {
-        if (grabTheLantern == true)
+        if (AudioFinished == true)
         {
-            Debug.Log("Switch to green 3");
-            SceneManager.LoadScene("SwimmingPool_Juliette", LoadSceneMode.Single);
+            Debug.Log("Next state");
+            return (int)StadiumStates.LookForBooks;
         }
         return (int)ELanternIntroductionStates.Invalid;
-    }
-    public void GrabedTheLantern()
-    {
-        grabTheLantern = true;
-        Debug.Log("You grabbed it");
-        return;
     }
 
     public void OnAudioCompleted()
     {
-        grabTheLantern = true;
+        AudioFinished = true;
     }
 }

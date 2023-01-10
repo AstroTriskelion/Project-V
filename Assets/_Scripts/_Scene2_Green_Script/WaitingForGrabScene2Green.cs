@@ -16,15 +16,14 @@ public class WaitingForGrabScene2Green : AStateBehaviour
 
     public override void OnStateStart()
     {
-        Debug.Log("Grab it");
+        Debug.Log("Listen");
+        SpawnAudio.spawnAudioPrefab(0, true);
+        SpawnAudio.spawnAudioPrefab(1, true);
+        SpawnAudio.spawnAudioPrefab(2);
     }
 
     public override void OnStateUpdate()
     {
-        if (Input.GetKeyDown("space"))
-        {
-            GrabedTheLantern();
-        }
     }
 
     public override void OnStateEnd()
@@ -37,15 +36,9 @@ public class WaitingForGrabScene2Green : AStateBehaviour
         if (grabTheLantern == true)
         {
             Debug.Log("Switch to blue 3");
-            SceneManager.LoadScene("Museum_João_V2", LoadSceneMode.Single);
+            SceneManager.LoadScene("Museum_João", LoadSceneMode.Single);
         }
         return (int)ELanternIntroductionStates.Invalid;
-    }
-    public void GrabedTheLantern()
-    {
-        grabTheLantern = true;
-        Debug.Log("You grabbed it");
-        return;
     }
 
     public void OnAudioCompleted()

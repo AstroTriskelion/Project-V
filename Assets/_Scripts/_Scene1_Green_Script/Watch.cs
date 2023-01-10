@@ -17,7 +17,7 @@ public class Watch : AStateBehaviour
 
     public override void OnStateStart()
     {
-        Debug.Log("Grab it");
+        Debug.Log("Listen");
         SpawnAudio.spawnAudioPrefab(0, true);
         SpawnAudio.spawnAudioPrefab(1, true);
         SpawnAudio.spawnAudioPrefab(2);
@@ -38,7 +38,7 @@ public class Watch : AStateBehaviour
         if (grabTheLantern == true)
         {
             Debug.Log("Switch to Museum");
-            SceneManager.LoadScene("Museum_João", LoadSceneMode.Single);
+            SceneManager.LoadScene("Museum_João_V2", LoadSceneMode.Single);
         }
         return (int)ELanternIntroductionStates.Invalid;
     }

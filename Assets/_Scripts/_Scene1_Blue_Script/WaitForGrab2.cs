@@ -5,6 +5,7 @@ using UnityEngine;
 public class WaitForGrab2 : AStateBehaviour
 {
     public bool grabTheLantern = false;
+    public bool repeat = false;
     public SpawnAudioPrefabs SpawnAudio;
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -45,8 +46,12 @@ public class WaitForGrab2 : AStateBehaviour
     }
     public void GrabedTheLantern()
     {
-        SpawnAudio.spawnAudioPrefab(1, true);
-        Debug.Log("You grabbed it");
+        if (repeat == false)
+        {
+            SpawnAudio.spawnAudioPrefab(1, true);
+            Debug.Log("You grabbed it");
+            repeat = true;
+        }
         return;
     }
 

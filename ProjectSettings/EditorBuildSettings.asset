@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/_Scenes/Museum/Museum_Jo\xE3o.unity"
     guid: 2870daf579a524d0aa3659ab424c64ed
-  - enabled: 1
+  - enabled: 0
     path: "Assets/_Scenes/IndoorField_Basketball/IndoorField_Basketball_Gon\xE7alo.unity"
     guid: 794e2cbe37e7641718583649e5d4ea17
   - enabled: 1
@@ -26,9 +26,15 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/_Scenes/Stadium/Stadium_Jo\xE3o.unity"
     guid: b8b63e8419f364da68acb38a8eb6ea62
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/Swimming-Pool/SwimmingPool_Juliette.unity
     guid: 0e118d7214d6e429c897d47a997bcabf
+  - enabled: 1
+    path: Assets/_Scenes/IndoorField_Basketball/IndoorField_BaskteballJuliette.unity
+    guid: e76fc9baeff934136bcdc272fcf80613
+  - enabled: 1
+    path: Assets/_Scenes/Swimming-Pool/SwimmingPool_backup.unity
+    guid: 97b70b4d176db453bafaf0921b66c9ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bcbe4cf4c92019643a0bef3ab9887215, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e4adc0c2fdac6b54a94fa88ea05aef16, type: 2}

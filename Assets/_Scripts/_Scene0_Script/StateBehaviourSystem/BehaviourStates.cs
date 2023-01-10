@@ -25,3 +25,10 @@ public enum ELanternIntroductionStates
     Narrative,
     FlashTransition
 }
+
+public enum StadiumStates
+{
+    Invalid = -1,
+    WaitForGrabScene3Green,
+    LookForBooks
+}
