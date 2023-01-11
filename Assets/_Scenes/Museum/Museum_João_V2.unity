@@ -190,6 +190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &19672819 stripped
@@ -362,6 +366,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy6
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
 --- !u!4 &25040737 stripped
@@ -423,6 +431,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -498,6 +510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &35139770 stripped
@@ -571,6 +587,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -646,6 +666,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &52262162 stripped
@@ -720,6 +744,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &57067677 stripped
@@ -793,6 +821,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -962,6 +994,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &74210994 stripped
@@ -1055,6 +1091,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &100348301 stripped
@@ -1128,6 +1168,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -1222,6 +1266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &104267782 stripped
@@ -1283,6 +1331,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
       propertyPath: m_Name
       value: Trophy6 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
@@ -1377,6 +1429,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &118941978 stripped
@@ -1438,6 +1494,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -1513,6 +1573,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &127763604 stripped
@@ -1586,6 +1650,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -1661,6 +1729,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &133212265 stripped
@@ -1730,6 +1802,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -1801,6 +1877,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &137389800 stripped
@@ -1870,6 +1950,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
       propertyPath: m_Name
       value: Book_A (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
@@ -1945,6 +2029,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &144951547 stripped
@@ -2018,6 +2106,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -2190,6 +2282,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -2616,6 +2712,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &199923836 stripped
@@ -2690,6 +2790,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &202497498 stripped
@@ -2751,6 +2855,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -2825,6 +2933,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
       propertyPath: m_Name
       value: Trophy3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
@@ -2907,6 +3019,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &225883750 stripped
@@ -2981,6 +3097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &234388258 stripped
@@ -3054,6 +3174,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -3228,6 +3352,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -3420,6 +3548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &278534594 stripped
@@ -3494,6 +3626,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &279905667 stripped
@@ -3567,6 +3703,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -3736,6 +3876,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &306074169 stripped
@@ -3809,6 +3953,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -3999,6 +4147,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &312847576 stripped
@@ -4060,6 +4212,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -4154,6 +4310,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &332258706 stripped
@@ -4227,6 +4387,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -4844,6 +5008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &366690577 stripped
@@ -4905,6 +5073,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -4980,6 +5152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &386956658 stripped
@@ -5053,6 +5229,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
       propertyPath: m_Name
       value: Trophy6 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
@@ -5128,6 +5308,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
 --- !u!4 &429780246 stripped
@@ -5189,6 +5373,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -5263,6 +5451,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -5910,6 +6102,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &455528086 stripped
@@ -5983,6 +6179,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -6058,6 +6258,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &472782482 stripped
@@ -6131,6 +6335,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -6455,6 +6663,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &499270304 stripped
@@ -6528,6 +6740,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -6689,6 +6905,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &506025838 stripped
@@ -6751,6 +6971,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &511261863 stripped
@@ -6767,7 +6991,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8989565422585820094, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_RootOrder
@@ -6827,11 +7051,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -6931679678223806367, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -6483303041040914872, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -6338490633473554750, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6851,7 +7075,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -3823263334808001478, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -2502644967845205980, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6863,7 +7087,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 630808426855026718, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_Name
@@ -6883,11 +7107,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3737946815420460976, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4027627874239115033, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4369404601260307156, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -6899,7 +7123,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4749908451915265596, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4769112323095436801, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6907,7 +7131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5180763817965231284, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5498827435912341014, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -6915,7 +7139,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 612f2886d73f648729ef1f19ad9238a3, type: 2}
     - target: {fileID: 5657923517752427419, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5981944248685016805, guid: 542ad4da625b07e46a34a4d847a84163, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -6989,6 +7213,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -7064,6 +7292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &565291702 stripped
@@ -7138,6 +7370,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &569670634 stripped
@@ -7199,6 +7435,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -7269,6 +7509,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -7406,6 +7650,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -7631,6 +7879,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &601054770 stripped
@@ -7803,6 +8055,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &615687433 stripped
@@ -7876,6 +8132,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
       propertyPath: m_Name
       value: Trophy5 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
@@ -7951,6 +8211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &620474596 stripped
@@ -8020,6 +8284,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -8095,6 +8363,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &625668024 stripped
@@ -8169,6 +8441,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &639482336 stripped
@@ -8242,6 +8518,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -8410,6 +8690,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -8729,6 +9013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &678197446 stripped
@@ -8798,6 +9086,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -8872,6 +9164,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -9029,6 +9325,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &699208192 stripped
@@ -9103,6 +9403,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &706392087 stripped
@@ -9165,6 +9469,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &709052479 stripped
@@ -9226,6 +9534,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -9297,6 +9609,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &715211287 stripped
@@ -9358,6 +9674,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -9523,6 +9843,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &742868641 stripped
@@ -9597,6 +9921,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &747008971 stripped
@@ -9670,6 +9998,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -9948,6 +10280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &770328741 stripped
@@ -10018,6 +10354,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &771062689 stripped
@@ -10079,6 +10419,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -10154,6 +10498,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &777147876 stripped
@@ -10228,6 +10576,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &777330723 stripped
@@ -10297,6 +10649,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
       propertyPath: m_Name
       value: Book_A (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
@@ -10372,6 +10728,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &805262981 stripped
@@ -10442,6 +10802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &822390119 stripped
@@ -10511,6 +10875,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -10586,6 +10954,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &840487799 stripped
@@ -10660,6 +11032,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &844767649 stripped
@@ -10733,6 +11109,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -10828,7 +11208,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 848681514}
   m_LocalRotation: {x: 0.89849246, y: -0, z: -0, w: 0.438989}
-  m_LocalPosition: {x: -0.6407112, y: 2.3914113, z: -2.83}
+  m_LocalPosition: {x: -0.6407112, y: 0.7, z: -3.14}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10901,6 +11281,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
       propertyPath: m_Name
       value: Trophy3 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
@@ -11032,7 +11416,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 870081480}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 4.05, y: 0.42000008, z: -1.028}
+  m_LocalPosition: {x: 4.05, y: 0.84, z: -1.028}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11168,6 +11552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &874691311 stripped
@@ -11229,6 +11617,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -11319,6 +11711,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &895789127 stripped
@@ -11393,6 +11789,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
 --- !u!4 &896433632 stripped
@@ -11454,6 +11854,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -11529,6 +11933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &899167894 stripped
@@ -11590,6 +11998,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -11665,6 +12077,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &906431973 stripped
@@ -11738,6 +12154,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -11813,6 +12233,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &926356574 stripped
@@ -11886,6 +12310,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -11961,6 +12389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &936745574 stripped
@@ -12034,6 +12466,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -12109,6 +12545,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &938682372 stripped
@@ -12182,6 +12622,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -12890,6 +13334,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1021332596 stripped
@@ -12963,6 +13411,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -13038,6 +13490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1029696788 stripped
@@ -13099,6 +13555,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -13174,6 +13634,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1045683008 stripped
@@ -13236,6 +13700,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy6 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
 --- !u!4 &1047810085 stripped
@@ -13297,6 +13765,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -13371,6 +13843,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -13544,6 +14020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1054875962 stripped
@@ -13613,6 +14093,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -13774,6 +14258,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1060663346 stripped
@@ -13844,6 +14332,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1061687691 stripped
@@ -13905,6 +14397,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
       propertyPath: m_Name
       value: Book_A (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
@@ -13980,6 +14476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1070187955 stripped
@@ -14041,6 +14541,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
       propertyPath: m_Name
       value: Book_A (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
@@ -14214,6 +14718,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1124219703 stripped
@@ -14385,6 +14893,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -15032,6 +15544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1137511143 stripped
@@ -15101,6 +15617,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -15175,6 +15695,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -15336,6 +15860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1165780025 stripped
@@ -15409,6 +15937,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -15597,6 +16129,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1195396445 stripped
@@ -15671,6 +16207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1197401335 stripped
@@ -15732,6 +16272,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -15901,6 +16445,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1261156942 stripped
@@ -15956,7 +16504,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sharedProfile: {fileID: 11400000, guid: 31bbfcc36ec124d019252e94f092d2d6, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 70a34c5f6b76ad141a8c18b39dd8ba27, type: 2}
   isGlobal: 1
   blendDistance: 0
   weight: 1
@@ -16228,6 +16776,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1271329810 stripped
@@ -16432,6 +16984,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1297697836 stripped
@@ -16505,6 +17061,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -16580,6 +17140,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
 --- !u!4 &1319528220 stripped
@@ -16653,6 +17217,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -16980,6 +17548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1341491489 stripped
@@ -17054,6 +17626,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &1344370686 stripped
@@ -17116,6 +17692,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1355520040 stripped
@@ -17177,6 +17757,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -17272,7 +17856,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1391318817}
   m_LocalRotation: {x: 0.89849246, y: -0, z: -0, w: 0.438989}
-  m_LocalPosition: {x: 10.04929, y: 2.3914113, z: -2.83}
+  m_LocalPosition: {x: 10.04929, y: 0.70000005, z: -3.1400003}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17345,6 +17929,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -17420,6 +18008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1394374409 stripped
@@ -17481,6 +18073,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -17650,6 +18246,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &1399159922 stripped
@@ -17674,7 +18274,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1402111080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17714,7 +18314,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1402111079}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.558, y: -0.35, z: -9.436}
+  m_LocalPosition: {x: -0.558, y: 0.754, z: -9.251}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -17790,6 +18390,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &1406295515 stripped
@@ -17863,6 +18467,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -17938,6 +18546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1413395569 stripped
@@ -17999,6 +18611,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -18164,6 +18780,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1438742399 stripped
@@ -18238,6 +18858,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1449421192 stripped
@@ -18299,6 +18923,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -18374,6 +19002,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1462044366 stripped
@@ -18443,6 +19075,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -18518,6 +19154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &1469541432 stripped
@@ -18591,6 +19231,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
       propertyPath: m_Name
       value: Trophy3 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
@@ -18666,6 +19310,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5478ca3d144ac9b4b8ba08472b56cd89, type: 3}
 --- !u!4 &1479628704 stripped
@@ -18727,6 +19375,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -18802,6 +19454,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1515986382 stripped
@@ -18875,6 +19531,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -19036,6 +19696,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1552169569 stripped
@@ -19110,6 +19774,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1555917600 stripped
@@ -19183,6 +19851,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
       propertyPath: m_Name
       value: Trophy3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
@@ -19826,6 +20498,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &1566369121 stripped
@@ -19899,6 +20575,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -19974,6 +20654,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &1574663585 stripped
@@ -20048,6 +20732,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1580252299 stripped
@@ -20109,6 +20797,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -20184,6 +20876,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1609003367 stripped
@@ -20245,6 +20941,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -20414,6 +21114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy3 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
 --- !u!4 &1643315350 stripped
@@ -20488,6 +21192,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
 --- !u!4 &1649059349 stripped
@@ -20561,6 +21269,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
       propertyPath: m_Name
       value: Trophy5 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
@@ -20708,6 +21420,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1666867017 stripped
@@ -20770,6 +21486,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1676756993 stripped
@@ -20787,6 +21507,10 @@ PrefabInstance:
     - target: {fileID: 5948442307397554725, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_Name
       value: FPSPlayer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5948442307397554725, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5948442307397554730, guid: a0b04151beea01b4386ee56c7f9eafb0, type: 3}
       propertyPath: m_RootOrder
@@ -20901,6 +21625,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1678129500 stripped
@@ -20974,6 +21702,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -21147,6 +21879,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1706613945 stripped
@@ -21208,6 +21944,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
       propertyPath: m_Name
       value: Trophy6 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
@@ -21283,6 +22023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1714127982 stripped
@@ -21356,6 +22100,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
       propertyPath: m_Name
       value: Trophy3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
@@ -21462,6 +22210,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1733053187 stripped
@@ -21532,6 +22284,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &1734502873 stripped
@@ -21594,6 +22350,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1747421825 stripped
@@ -21655,6 +22415,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -21730,6 +22494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1780864110 stripped
@@ -21803,6 +22571,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -21878,6 +22650,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1794781970 stripped
@@ -21952,6 +22728,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &1800724160 stripped
@@ -22025,6 +22805,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
       propertyPath: m_Name
       value: Medal (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
@@ -22511,6 +23295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1836611704 stripped
@@ -22605,7 +23393,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1838736687}
   m_LocalRotation: {x: 0.89849246, y: -0, z: -0, w: 0.438989}
-  m_LocalPosition: {x: 5.6892886, y: 2.3914113, z: -2.83}
+  m_LocalPosition: {x: 4.67, y: 0.70000005, z: -3.1400003}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -22678,6 +23466,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -22752,6 +23544,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -22883,6 +23679,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1856974537 stripped
@@ -22956,6 +23756,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
       propertyPath: m_Name
       value: Trophy3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
@@ -23117,6 +23921,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy6 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c21449c77baeba64098b6cce7885bac1, type: 3}
 --- !u!4 &1868796139 stripped
@@ -23178,6 +23986,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -23248,6 +24060,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -23323,6 +24139,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1879407101 stripped
@@ -23397,6 +24217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1887025514 stripped
@@ -23466,6 +24290,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -23635,6 +24463,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &1924577275 stripped
@@ -23696,6 +24528,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -23767,6 +24603,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &1950184751 stripped
@@ -23836,6 +24676,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -23911,6 +24755,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1963558245 stripped
@@ -23972,6 +24820,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
       propertyPath: m_Name
       value: Medal2 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d88eea2335d73949bb957e72c6cd688, type: 3}
@@ -24145,6 +24997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &1981103937 stripped
@@ -24219,6 +25075,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
 --- !u!4 &1986735229 stripped
@@ -24292,6 +25152,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -24456,6 +25320,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -24625,6 +25493,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_A (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
 --- !u!4 &2028388177 stripped
@@ -24699,6 +25571,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &2030065580 stripped
@@ -24760,6 +25636,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -24834,6 +25714,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -24924,6 +25808,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medal (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5f9b48c7f868848bff7a97ef5cd353, type: 3}
 --- !u!4 &2068606428 stripped
@@ -24997,6 +25885,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
       propertyPath: m_Name
       value: Trophy (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94c22014c53eaa144984e1cc1fdf3f31, type: 3}
@@ -25157,6 +26049,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
       propertyPath: m_Name
       value: Book_A (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c88dd9be82492c4e8162e4f3bfb5b19, type: 3}
@@ -25412,6 +26308,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_B (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
 --- !u!4 &2102790236 stripped
@@ -25473,6 +26373,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -25744,6 +26648,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &2126133821 stripped
@@ -25818,6 +26726,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trophy5 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a434fc2f7baad8499d9b0338c8e76bc, type: 3}
 --- !u!4 &2127199927 stripped
@@ -25879,6 +26791,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
       propertyPath: m_Name
       value: Book_B (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2403e759f76204b4dbb69c0b91711f97, type: 3}
@@ -25953,6 +26869,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
       propertyPath: m_Name
       value: Trophy3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209657f792440cb40a0b7cb276f7e9b8, type: 3}

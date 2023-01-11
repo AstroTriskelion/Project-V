@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: collectable items
-  m_Shader: {fileID: -6465566751694194690, guid: 44bdfd0fe3240f749bef74d635decfce, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 24b7d02cf1387214db385fd65ecb7aa8, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 2
