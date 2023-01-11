@@ -4339,14 +4339,17 @@ MonoBehaviour:
   - {fileID: 95404454}
   - {fileID: 95404454}
   - {fileID: 95404454}
+  - {fileID: 95404454}
   WhatToSpawn:
   - {fileID: 1619922785383441664, guid: 19e6162cd30cdcd43b1ea63d4f2338a1, type: 3}
   - {fileID: 1619922785383441664, guid: a300c7d362398ea428e3d4cdbe66c36f, type: 3}
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
+  - {fileID: 5254677531136021969, guid: a4cc82969ac1db64b86f764fa6e39281, type: 3}
   WhatToSpawnClone:
   - {fileID: 1619922785383441664, guid: 19e6162cd30cdcd43b1ea63d4f2338a1, type: 3}
   - {fileID: 1619922785383441664, guid: a300c7d362398ea428e3d4cdbe66c36f, type: 3}
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
+  - {fileID: 5254677531136021969, guid: a4cc82969ac1db64b86f764fa6e39281, type: 3}
 --- !u!1 &1113061799 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ee00be7bf430c4b93ae118bb1bc9c086, type: 3}

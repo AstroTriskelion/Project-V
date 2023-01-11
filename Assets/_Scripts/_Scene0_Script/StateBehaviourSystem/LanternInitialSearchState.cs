@@ -20,7 +20,7 @@ public class LanternInitialSearchState : AStateBehaviour
 
     public override void OnStateStart()
     {
-        SpawnAudio.spawnAudioPrefab(0);
+        SpawnAudio.spawnAudioPrefab(0, true);
         //source.Play();
 
     }

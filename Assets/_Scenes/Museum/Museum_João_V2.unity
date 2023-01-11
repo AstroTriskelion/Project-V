@@ -23589,14 +23589,17 @@ MonoBehaviour:
   - {fileID: 1814242458}
   - {fileID: 1814242458}
   - {fileID: 1814242458}
+  - {fileID: 1814242458}
   WhatToSpawn:
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
   - {fileID: 7195463800667303035, guid: 23dcdb00f4b776e409aec44bf93ba4d4, type: 3}
   - {fileID: 7195463800667303035, guid: d3a76c6ae7c4ef3448de43ec3cb8d155, type: 3}
+  - {fileID: 5254677531136021969, guid: a4cc82969ac1db64b86f764fa6e39281, type: 3}
   WhatToSpawnClone:
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
   - {fileID: 7195463800667303035, guid: 23dcdb00f4b776e409aec44bf93ba4d4, type: 3}
   - {fileID: 7195463800667303035, guid: d3a76c6ae7c4ef3448de43ec3cb8d155, type: 3}
+  - {fileID: 5254677531136021969, guid: a4cc82969ac1db64b86f764fa6e39281, type: 3}
 --- !u!4 &1852413570
 Transform:
   m_ObjectHideFlags: 0

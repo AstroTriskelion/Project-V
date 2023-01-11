@@ -20,6 +20,7 @@ public class WaitForGrab2 : AStateBehaviour
         Debug.Log("Grab it");
         SpawnAudio.spawnAudioPrefab(0, true);
         SpawnAudio.spawnAudioPrefab(2, true);
+        SpawnAudio.spawnAudioPrefab(3);
     }
 
     public override void OnStateUpdate()

@@ -23,6 +23,7 @@ public class LookForBook : AStateBehaviour
         MeshRenderer mm = Book1.GetComponent<MeshRenderer>();
         m.enabled = true;
         mm.enabled = true;
+        SpawnAudio.spawnAudioPrefab(4, true);
     }
 
     public override void OnStateUpdate()

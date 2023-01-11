@@ -147,8 +147,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 339.0000305175781,
-            "y": -101.0
+            "x": 339.0,
+            "y": -101.00001525878906
         },
         "m_Blocks": [
             {
@@ -770,7 +770,7 @@
     "m_ZWriteControl": 0,
     "m_ZTestMode": 4,
     "m_AlphaMode": 0,
-    "m_RenderFace": 0,
+    "m_RenderFace": 2,
     "m_AlphaClip": false,
     "m_CustomEditorGUI": ""
 }

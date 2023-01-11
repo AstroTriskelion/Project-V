@@ -35,7 +35,16 @@ public class Final : AStateBehaviour
 
     public override int StateTransitionCondition()
     {
-       
+        if (grabTheLantern == true)
+        {
+            Debug.Log("Beginning");
+            SceneManager.LoadScene("Intro_João", LoadSceneMode.Single);
+        }
         return (int)ELanternIntroductionStates.Invalid;
+    }
+
+    public void OnAudioCompleted()
+    {
+        grabTheLantern = true;
     }
 }
