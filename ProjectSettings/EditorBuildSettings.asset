@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/Intro/Intro_Juliette.unity
     guid: 36015599881e54d2da68933b86d9be81
-  - enabled: 1
+  - enabled: 0
     path: "Assets/_Scenes/Museum/Museum_Jo\xE3o.unity"
     guid: 2870daf579a524d0aa3659ab424c64ed
   - enabled: 0
@@ -35,6 +35,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/Swimming-Pool/SwimmingPool_backup.unity
     guid: 97b70b4d176db453bafaf0921b66c9ab
+  - enabled: 1
+    path: "Assets/_Scenes/Museum/Museum_Jo\xE3o_V3.unity"
+    guid: ec88f105befa7334b9aaefece9758a6d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bcbe4cf4c92019643a0bef3ab9887215, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e4adc0c2fdac6b54a94fa88ea05aef16, type: 2}

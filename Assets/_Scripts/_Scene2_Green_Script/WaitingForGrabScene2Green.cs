@@ -36,7 +36,7 @@ public class WaitingForGrabScene2Green : AStateBehaviour
         if (grabTheLantern == true)
         {
             Debug.Log("Switch to blue 3");
-            SceneManager.LoadScene("Museum_João", LoadSceneMode.Single);
+            SceneManager.LoadScene("Museum_João_V3", LoadSceneMode.Single);
         }
         return (int)ELanternIntroductionStates.Invalid;
     }
