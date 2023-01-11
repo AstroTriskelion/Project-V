@@ -7,6 +7,7 @@ public class LookForBook : AStateBehaviour
     public bool grabTheLantern = false;
     public SpawnAudioPrefabs SpawnAudio;
     public GameObject Book;
+    public GameObject Book1;
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
@@ -19,7 +20,9 @@ public class LookForBook : AStateBehaviour
         Debug.Log("Find it");
         SpawnAudio.spawnAudioPrefab(3, true);
         MeshRenderer m = Book.GetComponent<MeshRenderer>();
+        MeshRenderer mm = Book1.GetComponent<MeshRenderer>();
         m.enabled = true;
+        mm.enabled = true;
     }
 
     public override void OnStateUpdate()
