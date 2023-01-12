@@ -2078,6 +2078,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1c4bfbf062eb34346958d17772adaab3, type: 3}
   m_PrefabInstance: {fileID: 494297459}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &528726409
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 528726410}
+  m_Layer: 0
+  m_Name: Reset Reference
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &528726410
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 528726409}
+  m_LocalRotation: {x: -0, y: 0.73214334, z: -0, w: 0.6811506}
+  m_LocalPosition: {x: 2.236, y: -0.75, z: 11.601}
+  m_LocalScale: {x: 20.33367, y: 20.33367, z: 20.33367}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 94.133, z: 0}
 --- !u!1 &548304159 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ee00be7bf430c4b93ae118bb1bc9c086, type: 3}
@@ -11834,11 +11865,15 @@ PrefabInstance:
     - target: {fileID: 4698774399243747894, guid: d518cc8ba63942b43ad3412ec8a72fd8, type: 3}
       propertyPath: resetPosition
       value: 
-      objectReference: {fileID: 1585644331391078351}
+      objectReference: {fileID: 528726410}
     - target: {fileID: 4698774399243747894, guid: d518cc8ba63942b43ad3412ec8a72fd8, type: 3}
       propertyPath: lanternPosition
       value: 
       objectReference: {fileID: 1585644331391078350}
+    - target: {fileID: 4698774399243747894, guid: d518cc8ba63942b43ad3412ec8a72fd8, type: 3}
+      propertyPath: laternRigidBody
+      value: 
+      objectReference: {fileID: 1585644331391078354}
     - target: {fileID: 8767332828786398218, guid: d518cc8ba63942b43ad3412ec8a72fd8, type: 3}
       propertyPath: Duration
       value: 3
@@ -11874,9 +11909,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1264366230474820384, guid: d518cc8ba63942b43ad3412ec8a72fd8, type: 3}
   m_PrefabInstance: {fileID: 1585644331391078349}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1585644331391078351 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1585644330912261103, guid: d518cc8ba63942b43ad3412ec8a72fd8, type: 3}
+--- !u!54 &1585644331391078354 stripped
+Rigidbody:
+  m_CorrespondingSourceObject: {fileID: 1585644331242286278, guid: d518cc8ba63942b43ad3412ec8a72fd8, type: 3}
   m_PrefabInstance: {fileID: 1585644331391078349}
   m_PrefabAsset: {fileID: 0}
 --- !u!33 &4581106915168268870
