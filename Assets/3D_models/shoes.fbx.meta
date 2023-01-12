@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 542ad4da625b07e46a34a4d847a84163
+guid: 532c34eee0fbc54438610f98bb38656a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,23 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.002
-    second: {fileID: 2100000, guid: 5d97180c413f7204f97bf173c6b767e4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: divisions
-    second: {fileID: 2100000, guid: 72623f648f8620048ae84dfc2254d609, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: glass
-    second: {fileID: 2100000, guid: 90efb708b8a13434bb37d62591af022f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: walls
-    second: {fileID: 2100000, guid: 6ff588f26cbc59c4197043190b1c62ec, type: 2}
+      name: zapadeci7kV2_zapadeci7kV2
+    second: {fileID: 2100000, guid: 504b255c3ac623143885864c62b74db6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,7 +52,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

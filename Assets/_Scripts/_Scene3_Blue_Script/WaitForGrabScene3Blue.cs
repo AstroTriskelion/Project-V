@@ -7,12 +7,13 @@ public class WaitForGrabScene3Blue : AStateBehaviour
     public bool grabTheLantern = false;
     public bool repeat = false;
     public SpawnAudioPrefabs SpawnAudio;
+    public Animator openDoor;
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////
     public override bool InitializeState()
     {
-
         return true;
+        openDoor = GetComponent<Animator>();
     }
 
     public override void OnStateStart()
@@ -20,6 +21,7 @@ public class WaitForGrabScene3Blue : AStateBehaviour
         Debug.Log("Find it");
         SpawnAudio.spawnAudioPrefab(0, true);
         SpawnAudio.spawnAudioPrefab(1);
+        openDoor.SetBool("OpenDoor",true);
     }
 
     public override void OnStateUpdate()
@@ -49,7 +51,7 @@ public class WaitForGrabScene3Blue : AStateBehaviour
         if (repeat == false)
         {
             grabTheLantern = true;
-            Debug.Log("You found it");
+            Debug.Log("You found it");       
             repeat = true;
         }
         return;
