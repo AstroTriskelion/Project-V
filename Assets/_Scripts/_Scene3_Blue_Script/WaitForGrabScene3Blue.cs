@@ -50,8 +50,8 @@ public class WaitForGrabScene3Blue : AStateBehaviour
     {
         if (repeat == false)
         {
-            grabTheLantern = true;
-            Debug.Log("You found it");       
+            SpawnAudio.spawnAudioPrefab(2, true);
+            Debug.Log("You found it");
             repeat = true;
         }
         return;

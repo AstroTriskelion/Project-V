@@ -294,7 +294,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_AttachTransform: {fileID: 0}
+  m_AttachTransform: {fileID: 303027871}
   m_UseDynamicAttach: 0
   m_MatchAttachPosition: 1
   m_MatchAttachRotation: 1
@@ -367,6 +367,11 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.1658126, y: 0.0661471, z: 0.07725904}
   m_Center: {x: -0.004767798, y: 0.13798311, z: 0.008997011}
+--- !u!4 &15529881 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 532c34eee0fbc54438610f98bb38656a, type: 3}
+  m_PrefabInstance: {fileID: 15529874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &19672818
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4291,6 +4296,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 292503155}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &303027870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 303027871}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &303027871
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303027870}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.0749, y: 0.124, z: -0.0123}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 15529881}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &306074168
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25111,12 +25147,15 @@ MonoBehaviour:
   spawnLocations:
   - {fileID: 1814242458}
   - {fileID: 1814242458}
+  - {fileID: 1814242458}
   WhatToSpawn:
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
   - {fileID: 5254677531136021969, guid: a4cc82969ac1db64b86f764fa6e39281, type: 3}
+  - {fileID: 7195463800667303035, guid: 4b0d225ceee79104ab758a5558021b20, type: 3}
   WhatToSpawnClone:
   - {fileID: 4232441683635482504, guid: fded102b5accdbc4e9669071f9e2a65f, type: 3}
   - {fileID: 5254677531136021969, guid: a4cc82969ac1db64b86f764fa6e39281, type: 3}
+  - {fileID: 7195463800667303035, guid: 4b0d225ceee79104ab758a5558021b20, type: 3}
 --- !u!4 &1852413570
 Transform:
   m_ObjectHideFlags: 0
