@@ -6240,6 +6240,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HumanScaleModel (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04a9a381f5f4a40f0a43c654bbc7da26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 04a9a381f5f4a40f0a43c654bbc7da26, type: 3}
 --- !u!4 &219833872 stripped
